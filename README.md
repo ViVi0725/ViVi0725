@@ -1,6 +1,8 @@
 <h1 align="center">Hi! What's Up👋</h1>
 <div align="left">
-<p>Hi, I'm ViVi😀, a <strong> Ui Ux designer & web developer</strong> Mastering AI-driven design engineering + refining component libraries synced with Git workflows. I create developer-friendly interface that users love.When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or sharing my knowledge with the developer community.</p>
+<img align="left" alt="coding" width="150" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" style="margin-right: 15; margin-bottom: 0;" >
+<p>Hi, I'm ViVi😀, a <strong> Ui Ux designer & web developer</strong> Mastering AI-driven design engineering + refining component libraries synced with Git workflows.</p>
+<p>I create developer-friendly interface that users love.When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or sharing my knowledge with the developer community.</p>
 </div>
 <h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
