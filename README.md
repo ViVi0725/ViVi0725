@@ -21,5 +21,7 @@
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonc123&layout=compact&theme=dark" alt="Top Languages Card"></div>
-<h2 align="center">📫 Connect with me</h2>
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/luzihan" target="_blank">Vi Vi</a></p>
+<h2 align="center">📫 Connect with me:zihanlu72@gamil.com</h2>
+<div align="center">
+<p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/luzihan" target="_blank">Vi Vi</a> 📚 Profolio: <a href="https://vivi.framer.media/" target="_blank">2024-2025 work profolio</p> 
+</div>
