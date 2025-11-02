@@ -1,7 +1,7 @@
 ![logo](https://github.com/ViVi0725/ViVi0725/blob/d69f7646bcfd9d866bed98c2bcee08e5ab225f10/Github%20banner.png)
 <h1 align="center">Hi! This is ViVi👋</h1>
 <div align="left">
-<img align="left" alt="coding" width="150" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" style="margin-right: 15; margin-bottom: 0;" >
+<img align="left" alt="coding" width="150" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" style="margin-right: 15; margin-bottom: 0; background:none" >
 <p>Hi, I'm ViVi😀, a <strong> Ui Ux designer & web developer</strong> Mastering AI-driven design engineering + refining component libraries synced with Git workflows.</p>
 <p>I create developer-friendly interface that users love.When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or sharing my knowledge with the developer community.</p>
 </div>
