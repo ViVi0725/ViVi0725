@@ -1,3 +1,4 @@
+![logo](https://github.com/ViVi0725/ViVi0725/1c67b8a8e3df68372afc8e765b0ab505f6384b3f/Github%20banner.png)
 <h1 align="center">Hi! This is ViVi👋</h1>
 <div align="left">
 <img align="left" alt="coding" width="150" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" style="margin-right: 15; margin-bottom: 0;" >
