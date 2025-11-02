@@ -1,4 +1,4 @@
-<h1 align="center">Hi! What's Up👋</h1>
+<h1 align="center">Hi! This is ViVi👋</h1>
 <div align="left">
 <img align="left" alt="coding" width="150" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" style="margin-right: 15; margin-bottom: 0;" >
 <p>Hi, I'm ViVi😀, a <strong> Ui Ux designer & web developer</strong> Mastering AI-driven design engineering + refining component libraries synced with Git workflows.</p>
