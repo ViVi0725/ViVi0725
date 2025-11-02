@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**ViVi0725/ViVi0725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi! What's Up👋</h1>
+<div align="left">
+<p>Hi, I'm ViVi😀, a <strong> Ui Ux designer & web developer</strong> Mastering AI-driven design engineering + refining component libraries synced with Git workflows. I create developer-friendly interface that users love.When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or sharing my knowledge with the developer community.</p>
+</div>
+<h2 align="center">🛠 Tech Stack</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;</div>
+<h2 align="center">🛠 My Stats</h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonc123&layout=compact&theme=dark" alt="Top Languages Card"></div>
+<h2 align="center">📫 Connect with me</h2>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/luzihan" target="_blank">Vi Vi</a></p>
